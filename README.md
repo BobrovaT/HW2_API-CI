@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ol4qy7arp5c3ll1i?svg=true)](https://ci.appveyor.com/project/BobrovaT/hw2-api-ci-g20jj)
+[![Java CI with Gradle](https://github.com/BobrovaT/HW2_API-CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/BobrovaT/HW2_API-CI/actions/workflows/gradle.yml)
